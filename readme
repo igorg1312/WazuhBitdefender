@@ -1,0 +1,4 @@
+Wazuh and Bitdefender Python integration
+Get all detection from bitdefender and push to alerts.log in Wazuh automatically
+The script should be scheduled in ossec configuration file.
+
